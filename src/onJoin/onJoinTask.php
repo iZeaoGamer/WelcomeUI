@@ -8,7 +8,7 @@ use pocketmine\plugin\Plugin;
 use pocketmine\scheduler\PluginTask;
 use pocketmine\utils\TextFormat;
 
-class Task extends PluginTask{
+class onJoinTask extends PluginTask{
 
     private $plugin;
     private $player;
